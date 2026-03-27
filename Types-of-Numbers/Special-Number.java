@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Special_Number
 {
-    public static void main()
+    public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number to check if it is a special number or not:");
