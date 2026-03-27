@@ -17,9 +17,6 @@ This repository is a centralized space where I build, test, and explore differen
 * 💡 **Mini Projects & Experiments:**
   Small but interesting ideas built for learning and exploration
 
-* 🔐 **Cyber-sec Tools:**
-  Various Cybersecurity tools built for testing (mainly for Linux)
-
 ---
 
 ## 📂 Project Structure
