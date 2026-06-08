@@ -8,13 +8,13 @@
 
 This repository is a centralized space where I build, test, and explore different programming ideas. Contained within are projects across different domains, such as:
 
-* 🔢 **Mathematical Programs:**
+* **Mathematical Programs:**
   Algorithms and logic-based implementations
 
-* ⚙️ **Core Programming Concepts:**
+* **Core Programming Concepts:**
   Data structures, problem-solving techniques, and utilities
 
-* 💡 **Mini Projects & Experiments:**
+* **Mini Projects & Experiments:**
   Small but interesting ideas built for learning and exploration
 
 ---
@@ -27,8 +27,8 @@ Each folder represents a different concept or project:
 
 ## 🛠️ Tech Stack
 
-* 💻 Java & Python (primary focus for now)
-* 📦 Expanding into more languages soon...
+* Java & Python (primary focus for now)
+* Expanding into more languages soon...
 
 ---
 
@@ -45,9 +45,9 @@ Each folder represents a different concept or project:
 
 Feel free to:
 
-* ⭐ Star the repo if you find it useful
-* 🍴 Fork and experiment with the code
-* 🛠️ Suggest improvements or ideas
+* Star the repo if you find it useful
+* Fork and experiment with the code
+* Suggest improvements or ideas
 
 If you remix or use any part of the code, a small shoutout would be appreciated 🙌
 
